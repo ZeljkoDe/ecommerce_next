@@ -1,0 +1,176 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"attributes": {
+				"name": "The Complete Strapi Course",
+				"content": "\nWhy do we use it?\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n",
+				"meta_description": "The Complete Strapi Course, the course you should be taking",
+				"meta_title": "The Complete Strapi Course = Entrepreneur Store",
+				"price": 12,
+				"slug": "the-complete-strapi-course",
+				"createdAt": "2022-02-06T06:11:18.720Z",
+				"updatedAt": "2022-02-06T06:11:20.876Z",
+				"publishedAt": "2022-02-06T06:11:20.869Z",
+				"image": {
+					"data": {
+						"id": 1,
+						"attributes": {
+							"name": "background-crew-desktop.jpg",
+							"alternativeText": "background-crew-desktop.jpg",
+							"caption": "background-crew-desktop.jpg",
+							"width": 1440,
+							"height": 900,
+							"formats": {
+								"thumbnail": {
+									"name": "thumbnail_background-crew-desktop.jpg",
+									"hash": "thumbnail_background_crew_desktop_f841e0b94d",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 245,
+									"height": 153,
+									"size": 2.96,
+									"path": null,
+									"url": "/uploads/thumbnail_background_crew_desktop_f841e0b94d.jpg"
+								},
+								"large": {
+									"name": "large_background-crew-desktop.jpg",
+									"hash": "large_background_crew_desktop_f841e0b94d",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 1000,
+									"height": 625,
+									"size": 26.6,
+									"path": null,
+									"url": "/uploads/large_background_crew_desktop_f841e0b94d.jpg"
+								},
+								"medium": {
+									"name": "medium_background-crew-desktop.jpg",
+									"hash": "medium_background_crew_desktop_f841e0b94d",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 750,
+									"height": 469,
+									"size": 16.68,
+									"path": null,
+									"url": "/uploads/medium_background_crew_desktop_f841e0b94d.jpg"
+								},
+								"small": {
+									"name": "small_background-crew-desktop.jpg",
+									"hash": "small_background_crew_desktop_f841e0b94d",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 500,
+									"height": 313,
+									"size": 8.58,
+									"path": null,
+									"url": "/uploads/small_background_crew_desktop_f841e0b94d.jpg"
+								}
+							},
+							"hash": "background_crew_desktop_f841e0b94d",
+							"ext": ".jpg",
+							"mime": "image/jpeg",
+							"size": 39.86,
+							"url": "/uploads/background_crew_desktop_f841e0b94d.jpg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-02-06T06:09:21.907Z",
+							"updatedAt": "2022-02-06T06:09:21.907Z"
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": 2,
+			"attributes": {
+				"name": "The Next Course",
+				"content": "\nWhy do we use it?\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n",
+				"meta_description": "The nextjs course description",
+				"meta_title": "The Next Course - Entrepreneur course",
+				"price": 49.99,
+				"slug": "the-next-course",
+				"createdAt": "2022-02-06T06:13:12.481Z",
+				"updatedAt": "2022-02-06T06:13:13.535Z",
+				"publishedAt": "2022-02-06T06:13:13.530Z",
+				"image": {
+					"data": {
+						"id": 2,
+						"attributes": {
+							"name": "background-home-desktop.jpg",
+							"alternativeText": "background-home-desktop.jpg",
+							"caption": "background-home-desktop.jpg",
+							"width": 1440,
+							"height": 900,
+							"formats": {
+								"thumbnail": {
+									"name": "thumbnail_background-home-desktop.jpg",
+									"hash": "thumbnail_background_home_desktop_4def8fe700",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 245,
+									"height": 153,
+									"size": 4.7,
+									"path": null,
+									"url": "/uploads/thumbnail_background_home_desktop_4def8fe700.jpg"
+								},
+								"large": {
+									"name": "large_background-home-desktop.jpg",
+									"hash": "large_background_home_desktop_4def8fe700",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 1000,
+									"height": 625,
+									"size": 46.17,
+									"path": null,
+									"url": "/uploads/large_background_home_desktop_4def8fe700.jpg"
+								},
+								"medium": {
+									"name": "medium_background-home-desktop.jpg",
+									"hash": "medium_background_home_desktop_4def8fe700",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 750,
+									"height": 469,
+									"size": 29.87,
+									"path": null,
+									"url": "/uploads/medium_background_home_desktop_4def8fe700.jpg"
+								},
+								"small": {
+									"name": "small_background-home-desktop.jpg",
+									"hash": "small_background_home_desktop_4def8fe700",
+									"ext": ".jpg",
+									"mime": "image/jpeg",
+									"width": 500,
+									"height": 313,
+									"size": 15.27,
+									"path": null,
+									"url": "/uploads/small_background_home_desktop_4def8fe700.jpg"
+								}
+							},
+							"hash": "background_home_desktop_4def8fe700",
+							"ext": ".jpg",
+							"mime": "image/jpeg",
+							"size": 73.27,
+							"url": "/uploads/background_home_desktop_4def8fe700.jpg",
+							"previewUrl": null,
+							"provider": "local",
+							"provider_metadata": null,
+							"createdAt": "2022-02-06T06:11:44.877Z",
+							"updatedAt": "2022-02-06T06:11:44.877Z"
+						}
+					}
+				}
+			}
+		}
+	],
+	"meta": {
+		"pagination": {
+			"page": 1,
+			"pageSize": 25,
+			"pageCount": 1,
+			"total": 2
+		}
+	}
+}
