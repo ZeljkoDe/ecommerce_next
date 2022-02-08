@@ -4,7 +4,6 @@ import { Magic } from 'magic-sdk';
 import { MAGIC_PUBLIC_KEY } from '../utils/url';
 
 const AuthContext = createContext();
-
 let magic;
 
 export const AuthProvider = (props) => {
