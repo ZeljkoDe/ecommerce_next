@@ -4,8 +4,6 @@ import Head from 'next/head';
 import { fromImageToUrl, API_URL } from '../../utils/url';
 import { twoDecimals } from '../../utils/format';
 
-// const product = products.data[0];
-
 const Product = ({ product }) => {
 	console.log(product);
 	return (
